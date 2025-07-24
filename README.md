@@ -17,7 +17,7 @@ TrendTide is a **trend-driven social media prototype**, built to encourage meani
 ## 🔗 Explore It
 - 🌐 **Live Frontend**: [Try the New Demo](https://glittery-moonbeam-050533.netlify.app/)
 - 🎨 **Prototype (Canva)**: [View UI Design](https://www.canva.com/design/DAGezzEOP48/2psazkrDrIwMapODABQS3A/edit)
-- 📰 **LinkedIn Case Study**: [Read the Full Story](https://www.linkedin.com/in/amreen-ahmed-9306b2294/overlay/1635530589694/single-media-viewer/?profileId=ACoAADs0CrUBswEBWflZsMFXQbWhOlwKfw_Mmto)
+- 📰 **LinkedIn Case Study**: [Read the Full Story](https://www.linkedin.com/pulse/social-media-platformtrendtide-amreen-ahmed-8hn6c/?trackingId=pTpny5yfRm%2BU%2B1loEoUi%2Bg%3D%3D)
 
 ---
 

@@ -5,31 +5,31 @@ Hi! I’m **Amreen Ahmed**, and TrendTide is my take on what a modern social pla
 
 ---
 
-## 🌟 What is TrendTide?
+##  What is TrendTide?
 
 TrendTide is a **trend-driven social media prototype**, built to encourage meaningful, real-time discussions offering Rewards for users to Shop. Think of it as a place where Social media meets shopping apps but with user reward/discount combining the **dynamism of social trends**.
 
-📍 Designed with users in mind  
-🛠️ Built Using — UX, frontend, and user research
+ Designed with users in mind  
+ Built Using — UX, frontend, and user research
 
 ---
 
-## 🔗 Explore It
-- 🌐 **Live Frontend**: [Try the New Demo](https://glittery-moonbeam-050533.netlify.app/)
-- 🎨 **Prototype (Canva)**: [View UI Design](https://www.canva.com/design/DAGezzEOP48/2psazkrDrIwMapODABQS3A/edit)
-- 📰 **LinkedIn Case Study**: [Read the Full Story](https://www.linkedin.com/pulse/social-media-platformtrendtide-amreen-ahmed-8hn6c/?trackingId=pTpny5yfRm%2BU%2B1loEoUi%2Bg%3D%3D)
+##  Explore It
+-  **Live Frontend**: [Try the New Demo](https://glittery-moonbeam-050533.netlify.app/)
+-  **Prototype (Canva)**: [View UI Design](https://www.canva.com/design/DAGezzEOP48/2psazkrDrIwMapODABQS3A/edit)
+-  **LinkedIn Case Study**: [Read the Full Story](https://www.linkedin.com/pulse/social-media-platformtrendtide-amreen-ahmed-8hn6c/?trackingId=pTpny5yfRm%2BU%2B1loEoUi%2Bg%3D%3D)
 
 ---
 
-## 🔑 Key Highlights
-- 🔥 **Trending Threads** – Real-time discussions on what's buzzing
-- 🧵 **Threaded Conversations** – Structure meets spontaneity
-- 🎨 **Clean, Responsive UI** – User-friendly layout for every screen
-- 🏷️ **Hashtags & Categories** – Discover, filter, and engage
+##  Key Highlights
+-  **Trending Threads** – Real-time discussions on what's buzzing
+- **Threaded Conversations** – Structure meets spontaneity
+- **Clean, Responsive UI** – User-friendly layout for every screen
+-  **Hashtags & Categories** – Discover, filter, and engage
 
 ---
 
-## 👥 Why I Built This
+## Why I Built This
 
 Social platforms today focus too much on **algorithms and passive scrolling** where users attract alot of products and shop from the post Interaction. I wanted to flip that — to design a space that supports:
 - Deep conversations
@@ -55,7 +55,7 @@ Social platforms today focus too much on **algorithms and passive scrolling** wh
 
 ---
 
-## 🌱 What’s Next?
+##  What’s Next?
 TrendTide is still growing — in future updates, I aim to:
 - Integrate **AI-based topic suggestions**
 - Add **profile personalization**
@@ -63,7 +63,7 @@ TrendTide is still growing — in future updates, I aim to:
 
 ---
 
-## 🙋🏻‍♀️ About Me
+## About Me
 
 **Amreen Ahmed**  
 3rd Year CSE @ KL University  

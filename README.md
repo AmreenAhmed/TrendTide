@@ -47,11 +47,11 @@ Social platforms today focus too much on **algorithms and passive scrolling** wh
 
 ## 🛠️ Tech & Tools
 
-| Area        | Tools Used                                 |
-|-------------|---------------------------------------------|
-| Frontend    | HTML, CSS (deployed on Netlify)             |
-| UI/UX Design| Figma, Canva                                |
-| Research    | Google Forms, Reddit threads, LinkedIn polls|
+| Area        | Tools Used                                 
+|-------------|--------------------------------
+| Frontend    | HTML, CSS (deployed on Netlify)             
+| UI/UX Design| Figma, Canva                                
+| Research    | Google Forms,  LinkedIn polls|
 
 ---
 
@@ -69,7 +69,7 @@ TrendTide is still growing — in future updates, I aim to:
 3rd Year CSE @ KL University  
 UX Designer | Frontend Developer | Tech Research Enthusiast  
 
-🔗 [GitHub Repo](https://github.com/AmreenAhmed/TrendTide)  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/amreen-ahmed-9306b2294/)
 
 

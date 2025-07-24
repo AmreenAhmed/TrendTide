@@ -1,17 +1,16 @@
 # TrendTide
  Trend-Driven Social Media Platform Prototype
-# 🚀 TrendTide – Where Trends Spark Conversations
 
-Hi! I’m **Amreen Ahmed**, and TrendTide is my take on what a modern social platform *should* look like — one that goes beyond likes and scrolling, and brings back actual **conversations**.
+Hi! I’m **Amreen Ahmed**, and TrendTide is my take on what a modern social platform *should* look like — one that goes beyond likes and scrolling,conversations.
 
 ---
 
 ## 🌟 What is TrendTide?
 
-TrendTide is a **trend-driven social media prototype** inspired by Reddit, built to encourage meaningful, real-time discussions. Think of it as a place where viral topics meet thoughtful threads — combining the **dynamism of social trends** with the **depth of threaded conversations**.
+TrendTide is a **trend-driven social media prototype**, built to encourage meaningful, real-time discussions offering Rewards for users to Shop. Think of it as a place where Social media meets shopping apps but with user reward/discount combining the **dynamism of social trends**.
 
 📍 Designed with users in mind  
-🛠️ Built by me — UX, frontend, and user research
+🛠️ Built Using — UX, frontend, and user research
 
 ---
 
@@ -32,15 +31,17 @@ TrendTide is a **trend-driven social media prototype** inspired by Reddit, built
 
 ## 👥 Why I Built This
 
-Social platforms today focus too much on **algorithms and passive scrolling**. I wanted to flip that — to design a space that supports:
+Social platforms today focus too much on **algorithms and passive scrolling** where users attract alot of products and shop from the post Interaction. I wanted to flip that — to design a space that supports:
 - Deep conversations
 - Real-time updates
 - Community-driven interaction
+- Reward System which offers discounts for Users who Shop Through Social Media
 
 **User Research Highlights:**
-- ✅ 75% prefer discussion over scrolling
-- ✅ 65% want real-time, trend-based features
-- ❌ Most dislike lack of control, algorithmic feeds, and shallow content
+- 75% prefer discussion over scrolling
+- 65% want real-time, trend-based features
+- Most dislike lack of control, algorithmic feeds, and shallow content
+- alot of Users are Shopping from Social Media through Posts,Reels etc, where don't have any discounts
 
 ---
 
@@ -71,6 +72,4 @@ UX Designer | Frontend Developer | Tech Research Enthusiast
 🔗 [GitHub Repo](https://github.com/AmreenAhmed/TrendTide)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amreen-ahmed-9306b2294/)
 
----
 
-> ✨ _“TrendTide isn’t just a platform — it’s a digital space to think, speak, and connect.”_
